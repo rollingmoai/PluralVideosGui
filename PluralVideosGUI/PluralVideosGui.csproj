@@ -5,15 +5,7 @@
     <OutputType>WinExe</OutputType>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <UseWindowsForms>true</UseWindowsForms>
-    <Version>2020.124.0</Version>
-  </PropertyGroup>
-
-  <PropertyGroup>
-    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
-  </PropertyGroup>
-  
-  <PropertyGroup>
-    <StartupObject>PluralVideosGui.Program</StartupObject>
+    <Version>2021.0419.0</Version>
   </PropertyGroup>
 
   <PropertyGroup>
